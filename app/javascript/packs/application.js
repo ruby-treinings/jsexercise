@@ -16,5 +16,6 @@
 // const imagePath = (name) => images(name, true)
 
 import Rails from "@rails/ujs"
+import "src/welcome.js"
 
 Rails.start()
